@@ -31,3 +31,9 @@ A problem that I noticed was that my hub had to be able to handle 5V1A through V
 I have 35 SK6812Minis, a PGA2040, an SSD1306, and 3 downstream USB ports. I might be fried, honestly. I need to be running, like, what, 2.1A? to get everything running? I might lower the neopixel brightness so my board doesn't implode on itself.
 
 Gonna start wiring now. Wish me luck.
+
+## 13 June 2025
+
+Wired up the USB hub part without ground yet.
+
+![image](https://github.com/user-attachments/assets/88365052-5cf9-4c47-9f5b-f0f6558d3661)
