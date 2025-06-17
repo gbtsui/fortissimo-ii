@@ -37,3 +37,10 @@ Gonna start wiring now. Wish me luck.
 Wired up the USB hub part without ground yet.
 
 ![image](https://github.com/user-attachments/assets/88365052-5cf9-4c47-9f5b-f0f6558d3661)
+
+## 17 June 2025
+
+Finished up pretty much the entire left side! DRC keeps throwing errors but they're problems with the footprints I used, not with my actual design (hopefully).
+![image](https://github.com/user-attachments/assets/bbe3914b-f251-4782-b9d8-a8dafb8fd36a)
+
+So I forgot that neopixels existed and spent the entirety of this morning trying to route them all. It was not fun. As well, I forgot how to do a ground pour and spent half an hour routing that before I realized I could just ground pour it. But it's mostly done now! Just time to do the other half. I know the layout, time to repeat it!
