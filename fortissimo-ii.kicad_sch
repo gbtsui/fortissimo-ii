@@ -8450,6 +8450,16 @@
 		)
 		(uuid "12ab2b14-bfca-4987-8379-16e86bfce627")
 	)
+	(label "neopixel"
+		(at 177.8 175.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "20816b34-6373-46a3-8386-0f81fb9edb0c")
+	)
 	(label "row1"
 		(at 143.51 156.21 0)
 		(effects
@@ -8599,6 +8609,16 @@
 			(justify right bottom)
 		)
 		(uuid "b68c89d5-9601-44ee-a497-c73af9334af6")
+	)
+	(label "neopixel"
+		(at 276.86 173.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b9be1e4c-24a0-4454-a94a-709d07449844")
 	)
 	(label "row4"
 		(at 177.8 203.2 180)
