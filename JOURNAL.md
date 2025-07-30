@@ -41,10 +41,12 @@ Wired up the USB hub part without ground yet.
 ## 17 June 2025
 
 Finished up pretty much the entire left side! DRC keeps throwing errors but they're problems with the footprints I used, not with my actual design (hopefully).
+
 ![image](https://github.com/user-attachments/assets/bbe3914b-f251-4782-b9d8-a8dafb8fd36a)
 
 So I forgot that neopixels existed and spent the entirety of this morning trying to route them all. It was not fun. As well, I forgot how to do a ground pour and spent half an hour routing that before I realized I could just ground pour it. But it's mostly done now! Just time to do the other half. I know the layout, time to repeat it!
 
+<<<<<<< HEAD
 ## 29 July 2025
 
 I kinda forgot I was working on this because of Neighborhood. But anyways, with like 2 days left to design, I realized that my original design was far too ambitious. So I started again from the schematic, replacing the PGA2040 (they stopped manufacturing thoughs) with a regular Raspberry Pi Pico, dropped the LEDs and USB hub. 
@@ -58,3 +60,6 @@ I also added the TRRS jack so that both halves could communicate with I2C. I'm p
 
 I'm overall pretty happy with how this is looking. It's a lot cleaner. I'm not sure how mounting it to a case will work but we'll get to that when we get there. 
 
+=======
+I also forgot to route the rotary encoder. 
+>>>>>>> refs/remotes/origin/main
