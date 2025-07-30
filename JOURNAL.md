@@ -44,3 +44,17 @@ Finished up pretty much the entire left side! DRC keeps throwing errors but they
 ![image](https://github.com/user-attachments/assets/bbe3914b-f251-4782-b9d8-a8dafb8fd36a)
 
 So I forgot that neopixels existed and spent the entirety of this morning trying to route them all. It was not fun. As well, I forgot how to do a ground pour and spent half an hour routing that before I realized I could just ground pour it. But it's mostly done now! Just time to do the other half. I know the layout, time to repeat it!
+
+## 29 July 2025
+
+I kinda forgot I was working on this because of Neighborhood. But anyways, with like 2 days left to design, I realized that my original design was far too ambitious. So I started again from the schematic, replacing the PGA2040 (they stopped manufacturing thoughs) with a regular Raspberry Pi Pico, dropped the LEDs and USB hub. 
+![image](images/image.png)
+
+This is what it ended up looking like. So I took it and routed the PCB again, ending up with this. 
+
+![image](images/pcb_layout_journal_image.png)
+
+I also added the TRRS jack so that both halves could communicate with I2C. I'm pretty sure QMK supports that by default but I'm not sure, so tomorrow I"m going to have to actually code the firmware for it. Hopefully it doesn't take too long.
+
+I'm overall pretty happy with how this is looking. It's a lot cleaner. I'm not sure how mounting it to a case will work but we'll get to that when we get there. 
+
