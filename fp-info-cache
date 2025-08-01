@@ -1,4 +1,4 @@
-26392936888895512
+26406983150359012
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105461,3 +105461,59 @@ Varistor VF
 0
 2
 2
+fortissimo-ii
+128x64OLED
+
+
+0
+4
+4
+fortissimo-ii
+D_DO-35_SOD27_P7.62mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+fortissimo-ii
+Low-Profile-Choc-MX
+
+
+0
+5
+4
+fortissimo-ii
+MX-Alps-Choc-2U-StabFlip
+
+
+0
+8
+4
+fortissimo-ii
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+fortissimo-ii
+RaspberryPi_Pico_Common_Unspecified
+Raspberry Pi Pico versatile common (Pico & Pico W) footprint for surface-mount or through-hole hand soldering, supports Raspberry Pi Pico 2, default socketed model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+module usb pcb antenna
+0
+80
+40
+fortissimo-ii
+SW_PUSH_6mm
+Generic 6mm SW tactile push button
+tact sw push 6mm
+0
+4
+2
+fortissimo-ii
+TRRS-PJ-320A
+
+
+0
+4
+4
