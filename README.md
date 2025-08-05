@@ -29,7 +29,7 @@ Maybe it's not the prettiest case (blame my awful CAD skills, also it's actually
 |[header pin](https://www.digikey.ca/en/products/detail/w-rth-elektronik/61301611121/4846854) | $1.25 | 1 | $1.25 | - | 
 |[M3 10mm heatset insert](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4255/10244656) | $0.1826 (50 pack) | 10 | $9.13 | - |
 |[M3 10mm screw](https://www.digikey.ca/en/products/detail/apm-hexseal/RM3X10MM-2701/3712296) | $0.753 (10 pack) | 10 | $7.53 | - |
-|PCB| $6 (5 pack, including shipping) |  1 | $17.60 | $12.67 + $3.17 | 
+|PCB| $6.69 (5 pack, including shipping) |  1 | $17.60 | $12.67 + $3.17 | 
 
 Total: $123.44
 
