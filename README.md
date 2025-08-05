@@ -10,22 +10,26 @@ Maybe it's not the prettiest case (blame my awful CAD skills, also it's actually
 ![image](/images/full_assembly.png)
 
 ![image](/images/updated_pcb.png)
+<img width="1330" height="845" alt="image" src="https://github.com/user-attachments/assets/3e6d4e00-ee12-4523-a8d6-32d1219d6940" />
+
 
 ## Bill of Materials
 
-| Item | Cost (each) | Quantity | Total |
-|---|---|---|---|
-|![kailh choc v1 brown](https://chosfox.com/collections/kailh-low-profile-switch-pg1350/products/kailh-chocs?variant=42514647646402) | $0.48 (10 pack) | 70 | $33.60 |
-|![trrs jack](https://keeb.io/products/trrs-jack-3-5mm) | $0.50 | 2 | $1.00 |
-|![1N4148FS-ND matrix diodes](https://www.digikey.ca/en/products/detail/onsemi/1N4148/458603) | $0.0486 (100 pack) | 70 | $4.86 |
-|![PESD5V0S1UL ESD protection diode](https://www.digikey.ca/en/products/detail/nexperia-usa-inc/PESD5V0S1BA-QF/18108466) | $0.311 (10 pack) | 6 | $3.11 |
-|![128x64 SSD1306 OLED](https://www.aliexpress.com/item/1005006700828250.html) | $1.15 | 2 | $2.30 |
-|![6mm tactile switch](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-50-BK-100-LCR-D/15634294) | $0.15 | 1 | $0.15 |
-|![raspberry pi pico](https://www.digikey.ca/en/products/detail/raspberry-pi/SC0915/13684020) | $5.75 | 1 | $5.75 |
-|![4.7k pull up resistor](https://www.digikey.ca/en/products/detail/yageo/RC0603FR-074K7L/727212) | $0.014 (10 pack) | 4 | $0.14 |
-|![header pin](https://www.digikey.ca/en/products/detail/w-rth-elektronik/61301611121/4846854) | $1.25 | 1 | $1.25 |
-|![M3 10mm heatset insert](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4255/10244656) | $0.1826 (50 pack) | 10 | $9.13 |
-|![M3 10mm screw](https://www.canadarobotix.com/products/831?variant=14423565533233&country=CA&currency=CAD&gQT=1) | $0.149 (10 pack) | 10 | $1.49 |
-|PCB| $6 (5 pack, including shipping) |  1 | $30.05 |
-|Total| - | - | $92.68 |
+| Item | Cost (each) | Quantity | Subtotal | Shipping |
+|---|---|---|---|---|
+|[kailh choc v1 brown](https://chosfox.com/collections/kailh-low-profile-switch-pg1350/products/kailh-chocs?variant=42514647646402) | $0.48 (10 pack) | 70 | $33.60 | $8.45 |
+|[trrs jack](https://www.aliexpress.com/item/32368285821.html) | $0.069 (20 pack) | 2 | $1.38 | $4.35 |
+|[128x64 SSD1306 OLED](https://www.aliexpress.com/item/1005006700828250.html) | $1.15 | 2 | $2.30 | Free Shipping |
+| digikey |---|---|---|$8.00|
+|[1N4148FS-ND matrix diodes](https://www.digikey.ca/en/products/detail/onsemi/1N4148/458603) | $0.0486 (100 pack) | 70 | $4.86 | - |
+|[PESD5V0S1UL ESD protection diode](https://www.digikey.ca/en/products/detail/nexperia-usa-inc/PESD5V0S1BA-QF/18108466) | $0.311 (10 pack) | 6 | $3.11 | - |
+|[6mm tactile switch](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-50-BK-100-LCR-D/15634294) | $0.15 | 1 | $0.15 | - |
+|[raspberry pi pico](https://www.digikey.ca/en/products/detail/raspberry-pi/SC0915/13684020) | $5.75 | 1 | $5.75 | - |
+|[4.7k pull up resistor](https://www.digikey.ca/en/products/detail/yageo/RC0603FR-074K7L/727212) | $0.014 (10 pack) | 4 | $0.14 | - |
+|[header pin](https://www.digikey.ca/en/products/detail/w-rth-elektronik/61301611121/4846854) | $1.25 | 1 | $1.25 | - | 
+|[M3 10mm heatset insert](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4255/10244656) | $0.1826 (50 pack) | 10 | $9.13 | - |
+|[M3 10mm screw](https://www.digikey.ca/en/products/detail/apm-hexseal/RM3X10MM-2701/3712296) | $0.753 (10 pack) | 10 | $7.53 | - |
+|PCB| $6 (5 pack, including shipping) |  1 | $17.60 | $12.67 + $3.17 | 
+
+Total: $123.44
 
