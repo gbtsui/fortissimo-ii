@@ -138,21 +138,5 @@ Okay, firmware time.
 So, it's kinda weird, because I'm pretty unfamiliar with how QMK and split keyboard comms work. I'm assuming that through using I2C QMK deals with it automatically since I'm not doing custom data sending (as of yet). But, I set it up according to the docs, and I can only wait to flash it to my pico to see if it'll work or not. If it works as intended, great! I have a barebones functioning keyboard from which I can build all of my cool advanced functionality that I unfortunately do not know how to do yet without testing. If it doesn't, that's okay too! It means I get to figure out what's wrong.
 
 
-## Bill of Materials
-
-| Item | Cost (each) | Quantity | Total |
-|---|---|---|---|
-|![kailh choc v1 brown](https://chosfox.com/collections/kailh-low-profile-switch-pg1350/products/kailh-chocs?variant=42514647646402) | $0.48 (10 pack) | 70 | $33.60 |
-|![trrs jack](https://keeb.io/products/trrs-jack-3-5mm) | $0.50 | 2 | $1.00 |
-|![1N4148FS-ND matrix diodes](https://www.digikey.ca/en/products/detail/onsemi/1N4148/458603) | $0.0486 (100 pack) | 70 | $4.86 |
-|![PESD5V0S1UL ESD protection diode](https://www.digikey.ca/en/products/detail/nexperia-usa-inc/PESD5V0S1BA-QF/18108466) | $0.311 (10 pack) | 6 | $3.11 |
-|![128x64 SSD1306 OLED](https://www.aliexpress.com/item/1005006700828250.html) | $1.15 | 2 | $2.30 |
-|![6mm tactile switch](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-50-BK-100-LCR-D/15634294) | $0.15 | 1 | $0.15 |
-|![raspberry pi pico](https://www.digikey.ca/en/products/detail/raspberry-pi/SC0915/13684020) | $5.75 | 1 | $5.75 |
-|![4.7k pull up resistor](https://www.digikey.ca/en/products/detail/yageo/RC0603FR-074K7L/727212) | $0.014 (10 pack) | 4 | $0.14 |
-|![header pin](https://www.digikey.ca/en/products/detail/w-rth-elektronik/61301611121/4846854) | $1.25 | 1 | $1.25 |
-|![M3 10mm heatset insert](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4255/10244656) | $0.1826 (50 pack) | 10 | $9.13 |
-|![M3 10mm screw](https://www.canadarobotix.com/products/831?variant=14423565533233&country=CA&currency=CAD&gQT=1) | $0.149 (10 pack) | 10 | $1.49 |
-|PCB| $6 (5 pack, including shipping) |  1 | $30.05 |
-|Total| - | - | $92.68 |
-
+## 05 August 2025
+So I remade the case a bit, fixing the spacing between the keys and adding a lot of chamfers. I think it looks a lot better with the added text and stuff but to be completely honest I still don't know how to make it look super aesthetic. 
