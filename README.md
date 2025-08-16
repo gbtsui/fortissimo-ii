@@ -3,9 +3,12 @@
 Hello world!
 
 This is my 2nd attempt at building a keyboard.
+
 I really enjoyed hackpad v2 (even though mine ended up broken...) and I wanted an extra little challenge to build something bigger and get better at soldering. So I designed this ortholinear split keyboard that's ideally meant to be perfect for me; ergonomic design, looks cool, a lot of functionality, and on-the-fly custom language switching (eventually - firmware hasn't caught up to that yet!). Since I'm planning on phasing out my laptop when the school year starts to avoid distractions a bit better, I'm going to hopefully replace it with an iPad so I can take notes more effectively. But because I don't have enough money for an iPad keyboard (I'm not shelling out another $160 after buying a $400 device plus a $100 pencil), and I wanted to challenge myself to design something that might be able to replace it, I designed this instead.
 
 Maybe it's not the prettiest case (blame my awful CAD skills, also it's actually asymmetrical in size) and doesn't have the most beautiful design (I'm no electrical engineer), but hopefully it'll work. 
+
+Also, yes, this keyboard is piano themed. I like pianos. I am not good at playing piano. But I thought it was a cool concept.
 
 ![image](/images/renders/meowwww.png)
 
