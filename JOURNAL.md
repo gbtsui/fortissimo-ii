@@ -140,3 +140,8 @@ So, it's kinda weird, because I'm pretty unfamiliar with how QMK and split keybo
 
 ## 05 August 2025
 So I remade the case a bit, fixing the spacing between the keys and adding a lot of chamfers. I think it looks a lot better with the added text and stuff but to be completely honest I still don't know how to make it look super aesthetic. 
+
+## 12 August 2025
+I got rejected again for the second time which is sad. So I spent as much time as I could making everything look cool and polished. I will be sad if I get rejected again.
+
+Anyways, since my keyboard is piano keyboard (pun intended) themed, I added some black keys similar to those found on an actual piano on the bottom edge. The keys are still white on the render but I'm not sure if I'll pattern them with black and white when I build. 

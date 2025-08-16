@@ -7,7 +7,7 @@ I really enjoyed hackpad v2 (even though mine ended up broken...) and I wanted a
 
 Maybe it's not the prettiest case (blame my awful CAD skills, also it's actually asymmetrical in size) and doesn't have the most beautiful design (I'm no electrical engineer), but hopefully it'll work. 
 
-<img width="1532" height="406" alt="image" src="https://github.com/user-attachments/assets/8ecd9ec9-fd4b-4043-9c74-05006124e355" />
+![image](/images/renders/meowwww.png)
 
 ![image](/images/updated_pcb.png)
 <img width="1330" height="845" alt="image" src="https://github.com/user-attachments/assets/3e6d4e00-ee12-4523-a8d6-32d1219d6940" />
